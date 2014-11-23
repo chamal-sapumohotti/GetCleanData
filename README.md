@@ -2,7 +2,6 @@ To Use
 ======
 * Simply copy the script to the samsung data directory and execute, 
 * It will generate the tidyDataSet.txt file which contains the average of variables grouped by subject and activity for variables which contained the standard deviations and means from the original data set.
-* please look at the codebook.md for code book.
 
 Script Information
 ==================
