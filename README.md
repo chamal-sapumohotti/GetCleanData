@@ -6,8 +6,8 @@ To Use
 
 Script Information
 ============
-*The data files which contins the measurements are of fixed width format, so they are converted using format <- rep(c(-1, 15), 561)
-*I had memory issues when I tried to read complete files, and it was really slow when I was reading line by line, so I created the function readLargeFWFile to read in a fixed width file in chunks of 200 lines.
+* The data files which contins the measurements are of fixed width format, so they are converted using format <- rep(c(-1, 15), 561)
+* I had memory issues when I tried to read complete files, and it was really slow when I was reading line by line, so I created the function readLargeFWFile to read in a fixed width file in chunks of 200 lines.
 
 
 Code Book
